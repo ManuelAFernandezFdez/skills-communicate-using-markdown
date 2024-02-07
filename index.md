@@ -11,3 +11,12 @@
 ##### Test 5
 
 ###### Test 6
+```
+class UpdateFoundTooManyError(Exception):
+    def __init__(self, reason):
+        self.reason = "Update: Found Too many " + reason
+
+def handleError(s, e):
+    print("Error ", e.response.status_code, " in ", s)
+    raise
+```
