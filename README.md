@@ -1,4 +1,4 @@
-<header>
+# <header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -11,7 +11,7 @@
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-</header>
+## </header>
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -22,6 +22,8 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
+
+## Test Test
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
